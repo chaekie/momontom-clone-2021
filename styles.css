@@ -1,0 +1,13 @@
+body {
+  background-color: darkkhaki;
+  color: rgb(22, 28, 12);
+}
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
